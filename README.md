@@ -4,7 +4,7 @@ To create a boat in Maya and make it floating in unreal engine.
 
 ### Procedure
 ```
-.1Create a new project in Maya.
+1.Create a new project in Maya.
 2.From polygons drag and drop cube.
 3.By using extrude, insert edge tool and other tools shape the cube into a basic boat.
 4.Add texturing to the Boat that is created.
